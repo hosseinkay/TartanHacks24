@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, main, footer {
+    padding: 20px;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer {
+    background-color: #f1f1f1;
+}
+
+#transaction-history {
+    margin-top: 20px;
+}
+
+/* Add more styles based on your design preferences */
